@@ -16,10 +16,9 @@ Literature Review
 ========================================================
 
 
-- I conducted a literature review for a project for the National Parks Service 
-- The subject of hurricane impacts and change analysis studies 
-that could be applied to Gateway National Recreation Area, Assateague and Fire 
-Island National Seashores. 
+- I conducted a literature review for the Environmental Data Center as part of a project with the National Parks Service
+- The subject was hurricane impacts and change analysis
+that could be applied to Gateway National Recreation Area, Assateague and Fire Island National Seashores. 
 - Focused on the methodologies of each study, and did not analyze 
 the results
 <div style="float: right"><img src="download.jpg" /></div>
@@ -31,18 +30,19 @@ the results
 Search Tools
 ========================================================
 
-* I started with http://uri.libguides.com/life
-* This is the life sciences staging page
-* List of many useful databases that URI has subscriptions too
-* Conspicuous absences are Bioone and Google Scholar
+* I started with [URI Library Guide](http://uri.libguides.com/life "Life, Environment and Marine Sciences Library Guide") 
+* This is the life, Environment and Marine science staging page
+* Lists many useful databases that URI has subscriptions too
+* Conspicuous absences are [Bioone](http://bioone.org "Research Evolved") and [Google Scholar](http://scholar.google.com/ "Stand on the shoulders of giants")
 
 Useful Databases
 =======
 ![alt text](logos.png)
-* All easy to search have an account system to save searches
+* All easy to search have account systems to save searches, and other advanced functions
 * Many smaller databases may be useful for particular topics
 * Read the abstracts!
-* Google Scholar very good at locating specific articles and determing URI's access to that article.
+* Google Scholar very good at locating specific articles and determining URI's access to that article.
+* JSTOR is a good place to look for older journal editions
 
 Reference Managers
 ====
@@ -50,10 +50,31 @@ Reference Managers
 |---|---|---|---|
 | Collaborative Sharing  |  No |  Yes | Yes  | 
 | Desktop Client  | No  | Yes  |  Yes |
-|  Subscription |  Yes(URI) | No  |  Yes |
+|  Subscription |  Yes | No  |  Yes |
 |Storage | No | Yes | Yes |
 | Pdf import | No | Yes | No |
 | One click import | Yes | Yes | Yes|
 | Save Searches | No | No | Yes |
 | Word Plugin | Yes | Yes | Yes |
 | Web version has full functionality | Yes | No | No |
+
+Reference Managers Cont.
+=====
+* If you currently use a reference manager and feel comfortable with it, carry on.
+* Mendeley 
+  * 2 gb of storage space, Pdf import capability, collaborative sharing, social network elements, and free
+* Refworks
+  * Full web functionality, 150 mb of storage, free through URI
+* EndNote
+  * 2 gb of storage space, desktop application requires a subscription
+  
+Useful Links
+====
+
+1. [http://uri.libguides.com/life](http://uri.libguides.com/life "Life, Environment and Marine Sciences Library Guide")
+
+2. [http://uri.libguides.com/refworks](http://uri.libguides.com/refworks "Refworks")
+
+3. [http://uri.libguides.com/mendeleyzotero](http://uri/libguides.com/mendeleyzotero "Mendeley")
+
+4. [www.bioone.org](www.bioone.org "Research Evolved")
